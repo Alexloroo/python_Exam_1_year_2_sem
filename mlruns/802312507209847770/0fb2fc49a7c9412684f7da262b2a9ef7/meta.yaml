@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802312507209847770/0fb2fc49a7c9412684f7da262b2a9ef7/artifacts
+end_time: 1777289554515
+entry_point_name: ''
+experiment_id: '802312507209847770'
+lifecycle_stage: active
+run_id: 0fb2fc49a7c9412684f7da262b2a9ef7
+run_name: Ridge Regression
+run_uuid: 0fb2fc49a7c9412684f7da262b2a9ef7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777289554499
+status: 3
+tags: []
+user_id: alexseyka

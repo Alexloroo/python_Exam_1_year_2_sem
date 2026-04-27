@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802312507209847770/0782f9664f2744d094d45814f5e87bfc/artifacts
+end_time: 1777289392849
+entry_point_name: ''
+experiment_id: '802312507209847770'
+lifecycle_stage: active
+run_id: 0782f9664f2744d094d45814f5e87bfc
+run_name: Linear Regression
+run_uuid: 0782f9664f2744d094d45814f5e87bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777289392834
+status: 3
+tags: []
+user_id: alexseyka

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802312507209847770/9301c21f0a6548c3a1143f22a52733c2/artifacts
+end_time: 1777291259980
+entry_point_name: ''
+experiment_id: '802312507209847770'
+lifecycle_stage: active
+run_id: 9301c21f0a6548c3a1143f22a52733c2
+run_name: Neural Network_without data Normalized
+run_uuid: 9301c21f0a6548c3a1143f22a52733c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777291259965
+status: 3
+tags: []
+user_id: alexseyka

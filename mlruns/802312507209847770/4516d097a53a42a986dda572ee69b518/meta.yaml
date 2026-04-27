@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802312507209847770/4516d097a53a42a986dda572ee69b518/artifacts
+end_time: 1777289518467
+entry_point_name: ''
+experiment_id: '802312507209847770'
+lifecycle_stage: active
+run_id: 4516d097a53a42a986dda572ee69b518
+run_name: LightGBM
+run_uuid: 4516d097a53a42a986dda572ee69b518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777289518452
+status: 3
+tags: []
+user_id: alexseyka

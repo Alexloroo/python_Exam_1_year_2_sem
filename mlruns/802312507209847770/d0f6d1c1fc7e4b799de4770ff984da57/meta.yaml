@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/802312507209847770/d0f6d1c1fc7e4b799de4770ff984da57/artifacts
+end_time: 1777289636334
+entry_point_name: ''
+experiment_id: '802312507209847770'
+lifecycle_stage: active
+run_id: d0f6d1c1fc7e4b799de4770ff984da57
+run_name: Bagging
+run_uuid: d0f6d1c1fc7e4b799de4770ff984da57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1777289636314
+status: 3
+tags: []
+user_id: alexseyka
