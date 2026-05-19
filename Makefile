@@ -1,4 +1,4 @@
-c ="Add new changes"
+c =Add new changes
 
 sent:
 	git add .

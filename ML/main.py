@@ -76,6 +76,7 @@ def predict(input: HouseInput):
         df[col] = df[col].map(mp)
 
     df['furnishingstatus'] = df['furnishingstatus'].map(mp)
+    df = df[model.feature_names_in_]
 
     prediction = model.predict(df)[0]
 
